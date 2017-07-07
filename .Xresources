@@ -1,0 +1,51 @@
+*XTerm*utf8		:	1
+*XTerm*locale		:	true
+*XTerm*background:black
+*XTerm*foreground:white
+*XTerm*termName:xterm-256color
+*XTerm*vt100.geometry:70x20+0+0
+*XTerm*ximFont:-misc-fixed-medium-r-normal--14-130-75-75-c-140-jisx0208.1983-0
+*XTerm*faceName:DejaVuSansMono
+
+!*XTerm*faceName:Fira Mono:style=Regular
+!*XTerm*faceName:Noto Mono:style=Semicondensed
+!*XTerm*faceName:Misc Fixed:style=Regular
+*XTerm*faceNameDoublesize:MeiryoKe_PGothic:style=Regular
+!*XTerm*faceNameDoublesize:Monospace:style=Bold
+*XTerm*faceSize:12
+Xft.dpi:    96
+*XTerm*scrollBar:	true
+*XTerm*rightScrollBar:	true
+!
+!
+!XTerm*vt100.background: #000000
+!XTerm*vt100.color0: #333366
+!XTerm*vt100.color1: #6666CC
+!XTerm*vt100.color10:    #00CCFF
+!XTerm*vt100.color11:    #6699FF
+!XTerm*vt100.color12:    #0099CC
+!XTerm*vt100.color13:    #0099FF
+!XTerm*vt100.color14:    #66CCCC
+!XTerm*vt100.color15:    #CCFFFF
+!XTerm*vt100.color2: #0099CC
+!XTerm*vt100.color3: #3366CC
+!XTerm*vt100.color4: #006699
+!XTerm*vt100.color5: #0066FF
+!XTerm*vt100.color6: #669999
+!XTerm*vt100.color7: #99CCCC
+!XTerm*vt100.color8: #333399
+!XTerm*vt100.color9: #9999FF
+!XTerm*vt100.colorMode:  true
+!XTerm*vt100.foreground: white
+!XTerm*vt100.geometry:   100x24+0+0
+!XTerm*vt100.on2Clicks:  line
+!XTerm*vt100.saveLines:  2000
+
+!Xft.antialias:  1
+!Xft.hintstyle:  hintfull
+!Xft.rgba:   none
+!Xcursor.theme:  
+!Xcursor.size:   0
+!Xcursor.theme_core: 1
+
+

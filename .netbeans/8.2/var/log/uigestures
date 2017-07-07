@@ -1,0 +1,340 @@
+<record>
+  <date>2017-07-06T23:42:49</date>
+  <millis>1499352169460</millis>
+  <sequence>48</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2017-07-06T23:42:49</date>
+  <millis>1499352169471</millis>
+  <sequence>49</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1264</param>
+  <param>950</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2017-07-06T23:42:49</date>
+  <millis>1499352169476</millis>
+  <sequence>50</sequence>
+  <level>700</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2017-07-06T23:42:50</date>
+  <millis>1499352170711</millis>
+  <sequence>59</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>13</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Metal</param>
+  <param>Metal</param>
+</record>
+<record>
+  <date>2017-07-06T23:42:54</date>
+  <millis>1499352174980</millis>
+  <sequence>62</sequence>
+  <level>800</level>
+  <thread>23</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1025556480</param>
+</record>
+<record>
+  <date>2017-07-06T23:42:57</date>
+  <millis>1499352177706</millis>
+  <sequence>64</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[オプション(O)]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[オプション(&amp;O)]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>オプション(&amp;O)</param>
+</record>
+<record>
+  <date>2017-07-06T23:42:59</date>
+  <millis>1499352179441</millis>
+  <sequence>67</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:43:36</date>
+  <millis>1499352216965</millis>
+  <sequence>72</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>46</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2017-07-06T23:43:36</date>
+  <millis>1499352216968</millis>
+  <sequence>73</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>46</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2017-07-06T23:43:43</date>
+  <millis>1499352223106</millis>
+  <sequence>49</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>CPU INFO</message>
+  <param>1</param>
+</record>
+<record>
+  <date>2017-07-06T23:43:43</date>
+  <millis>1499352223115</millis>
+  <sequence>50</sequence>
+  <level>300</level>
+  <thread>13</thread>
+  <message>SCREEN SIZE</message>
+  <param>1264</param>
+  <param>950</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2017-07-06T23:43:43</date>
+  <millis>1499352223123</millis>
+  <sequence>51</sequence>
+  <level>700</level>
+  <thread>13</thread>
+  <message>IDE_STARTUP</message>
+</record>
+<record>
+  <date>2017-07-06T23:43:44</date>
+  <millis>1499352224389</millis>
+  <sequence>67</sequence>
+  <logger>org.netbeans.ui.metrics.laf</logger>
+  <level>800</level>
+  <thread>13</thread>
+  <message>USG_LOOK_AND_FEEL</message>
+  <param>Metal</param>
+  <param>Metal</param>
+</record>
+<record>
+  <date>2017-07-06T23:43:48</date>
+  <millis>1499352228209</millis>
+  <sequence>70</sequence>
+  <level>800</level>
+  <thread>23</thread>
+  <message>MEMORY</message>
+  <key>MEMORY</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>1025556480</param>
+</record>
+<record>
+  <date>2017-07-06T23:43:53</date>
+  <millis>1499352233845</millis>
+  <sequence>74</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>18</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[オプション(O)]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.awt.AlwaysEnabledAction[オプション(&amp;O)]</param>
+  <param>org.openide.awt.AlwaysEnabledAction</param>
+  <param>オプション(&amp;O)</param>
+</record>
+<record>
+  <date>2017-07-06T23:43:55</date>
+  <millis>1499352235029</millis>
+  <sequence>78</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:01</date>
+  <millis>1499352241839</millis>
+  <sequence>80</sequence>
+  <logger>org.netbeans.ui.ergonomics</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>ERGO_QUESTION</message>
+  <key>ERGO_QUESTION</key>
+  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
+  <param>extide</param>
+  <param>extide</param>
+</record>
+<record>
+  <date>2017-07-06T23:44:05</date>
+  <millis>1499352245132</millis>
+  <sequence>81</sequence>
+  <logger>org.netbeans.ui.ergonomics</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>ERGO_DOWNLOAD</message>
+  <key>ERGO_DOWNLOAD</key>
+  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:07</date>
+  <millis>1499352247007</millis>
+  <sequence>82</sequence>
+  <logger>org.netbeans.ui.ergonomics</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>ERGO_CLOSE</message>
+  <key>ERGO_CLOSE</key>
+  <catalog>org.netbeans.modules.ide.ergonomics.fod.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:09</date>
+  <millis>1499352249265</millis>
+  <sequence>85</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>22</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>754</param>
+</record>
+<record>
+  <date>2017-07-06T23:44:10</date>
+  <millis>1499352250578</millis>
+  <sequence>96</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:24</date>
+  <millis>1499352264892</millis>
+  <sequence>105</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:24</date>
+  <millis>1499352264893</millis>
+  <sequence>106</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:25</date>
+  <millis>1499352265935</millis>
+  <sequence>107</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>41</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1</param>
+</record>
+<record>
+  <date>2017-07-06T23:44:26</date>
+  <millis>1499352266800</millis>
+  <sequence>108</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>41</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>405</param>
+</record>
+<record>
+  <date>2017-07-06T23:44:27</date>
+  <millis>1499352267468</millis>
+  <sequence>109</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>24</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2017-07-06T23:44:27</date>
+  <millis>1499352267478</millis>
+  <sequence>110</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>24</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2017-07-06T23:44:27</date>
+  <millis>1499352267629</millis>
+  <sequence>114</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:27</date>
+  <millis>1499352267631</millis>
+  <sequence>115</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>18</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2017-07-06T23:44:28</date>
+  <millis>1499352268135</millis>
+  <sequence>121</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>41</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1069</param>
+</record>

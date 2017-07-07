@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="org-apache-tools-ant-module.xml">
+        <attr name="ergonomicsEnabled" longvalue="1499352247000"/>
+        <attr name="ergonomicsUnused" intvalue="1"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-options-java.xml">
+        <attr name="ergonomicsEnabled" longvalue="1499352247000"/>
+        <attr name="ergonomicsUnused" intvalue="1"/>
+    </fileobject>
+</attributes>

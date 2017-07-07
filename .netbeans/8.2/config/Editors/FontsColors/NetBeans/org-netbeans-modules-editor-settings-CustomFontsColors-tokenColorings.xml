@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="black" name="identifier"/>
+    <fontcolor bgColor="white" foreColor="black" name="default">
+        <font name="Ricty" size="18" style="plain"/>
+    </fontcolor>
+    <fontcolor foreColor="ffc85a0a" name="string"/>
+    <fontcolor foreColor="ffc85a0a" name="char"/>
+    <fontcolor foreColor="gray" name="comment"/>
+</fontscolors>
